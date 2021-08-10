@@ -1,4 +1,3 @@
-from getpass import getpass
 import time
 
 username = input("User: ")
